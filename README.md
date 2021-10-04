@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Wilson-D-Lee
-- 👀 I’m interested in software development and automation. 
+- 👀 I’m interested in test automation and software development.
 - 🌱 I’m currently learning full stack development. 
 - 💞️ I’m looking to collaborate on any projects in need of assistance. 
 - 📫 How to reach me: wilson.lee.ac.uk@gmail.com 
